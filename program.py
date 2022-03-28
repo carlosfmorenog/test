@@ -1,3 +1,5 @@
 import numpy as np
 
-print("Hello World")
+name = 'World'
+
+print(f"Hello {name}")
